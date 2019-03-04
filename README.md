@@ -1,4 +1,4 @@
-# Saint-Leo-Sports-Page
+# Saint Leo University Athletics Page
 ## Purpose of Project:
 This repository is a static website which uses CSS elements to achieve a polished look on a plain school project. The purpose of this repository is to illustrate my skills with HTML and CSS. 
 ## Additional Information:
