@@ -1,0 +1,19 @@
+img {
+	height: 200px;
+	width: 200px;
+	margin:20px; 
+	float: right;
+}
+hr {
+	clear:both
+}
+h1 {
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+body {
+	background-color: khaki;
+	margin-left: 2eM; 
+	margin-right: 2eM
+}
